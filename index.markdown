@@ -10,7 +10,7 @@ I'm a freelance digital generalist with skills and experience in product, delive
 
 Most recently, I was a Product Manager at HMPPS, Ministry of Justice, exploring digital services for prisoners. Previously I was User Research Lead for the Connected Communities team at Co-op Digital.
 
-I started out as a Caseworker for a Member of Parliament, as Head of Design and Manufacturing Policy at a [political thinktank] (https://jekyllrb.com/), and as a Private Secretary at the Ministry of Justice.
+I started out as a Caseworker for a Member of Parliament, as Head of Design and Manufacturing Policy at a [political thinktank](https://jekyllrb.com/), and as a Private Secretary at the Ministry of Justice.
 
 I built a tool to support childcare co-operatives, and worked with MPs to use speculative design to explore the future of assisted dying.
 
