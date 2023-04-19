@@ -20,3 +20,12 @@ You can find the source code for Jekyll at GitHub:
 [jekyll-organization]: https://github.com/jekyll
 
 Add some more text 
+
+## This is an example of bulleted text
+Here are some words to test
+
+- this 
+- is 
+- how
+- markdown
+- works
